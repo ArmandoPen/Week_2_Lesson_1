@@ -47,6 +47,10 @@ public class IfStatment : MonoBehaviour
         variable = variable < 0 ?  10 : -10;
         print(variable);
 
+        variable = 5 > 8 ? 30 : 21;
+
+        int dob = 1995;
+        string Name = dob > 2000 ? "Jerry" : "Jack";
     }
 
     // Update is called once per frame

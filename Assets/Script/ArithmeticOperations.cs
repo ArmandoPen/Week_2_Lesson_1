@@ -37,6 +37,8 @@ public class ArithmeticOperations : MonoBehaviour
 
         variableOne--;
         print(variableOne);
+
+
     }
 
     // Update is called once per frame
